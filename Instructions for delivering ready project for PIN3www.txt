@@ -1,0 +1,40 @@
+You are supposed to style the HTML document according to the design principles in your style book.
+
+The things to change are:
+
+ 0) the color of navar and the style of brand name using the following css properties:
+    - font-size: ??px;
+	- color: ???;
+	- height: ??px;
+	- background: ???;
+	- font-family: ????;
+ 
+ 1) texts in sliders. You can use the following css properties:
+    - color: ???;
+	- margin: ???;
+	- font-size: ???px;
+	- font-family: ????;
+
+ 2) background images. Choose only those that are abstract and represents the background image but not real objects.
+ 
+ 3) Style of headers and body texts. You can use the following css properties:
+    - color: ???;
+	- margin: ???;
+	- font-size: ???px;
+	- font-family: ????;
+	- line-height: ???px;
+	- margin: ????px;
+	
+ 4) link the three buttons to your real designs saved in PNG. Save the projects (as PNG) to the same directory as HTML, and specify its name in "href" attribute near the <a> tag which keeps the buttons. e.g:
+ 
+ <a href="final.jpg">
+		<button type="button" class="btn btn-primary">Desktop</button>
+</a>
+			
+
+In order to change the fonts, you should to look at fonts.google.com and choose the two fonts for headings and body text.
+
+If you need more information about the css properties read these pages:
+
+https://www.w3schools.com/css/css_text.asp
+https://www.w3schools.com/css/css_font.asp
